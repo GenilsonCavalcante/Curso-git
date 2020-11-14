@@ -5,3 +5,7 @@ date: 13/11/2020
 
 Entendendo o HEAD
 date: 14/11/2020
+
+-----------------
+
+Essa linha foi modificado no ramo master
